@@ -4,4 +4,21 @@
 💡 I’m also interested in Web 3.0 and decentralized technologies  
 💞️ Looking to collaborate on MERN stack projects and AI innovations  
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/shahryar-sohail-477750274/)  
-⚡ Fun fact: A gaming enthusiast who loves blending creativity with tech!  
+⚡ Fun fact: A gaming enthusiast who loves blending creativity with tech!     
+
+🛠 Tech Stack
+Frontend
+
+Backend
+
+Database
+
+Data Science & Machine Learning
+
+DevOps & Tools
+
+Web 3.0
+
+Linux & Cybersecurity
+
+Cloud & Hosting
