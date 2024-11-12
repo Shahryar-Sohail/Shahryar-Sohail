@@ -1,3 +1,5 @@
+![Room Setup](/Room%20Setup%20Edited.png)  
+
 👋 Hi, I’m @Shahryar-Sohail  
 👀 I’m passionate about Web Development and exploring emerging technologies  
 🌱 Currently learning MERN stack and expanding my skills in Machine Learning and Data Science  
