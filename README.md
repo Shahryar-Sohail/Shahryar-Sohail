@@ -1,12 +1,12 @@
 ![Room Setup](/Room%20Setup%20Edited.png)  
 
-👋 Hi, I’m <span style="color:blue;">@Shahryar-Sohail</span>
-👀 I’m <span style="color:green;">passionate</span> about <span style="color:teal;">Web Development</span> and love exploring <span style="color:purple;">emerging technologies</span>
-🌱 Currently <span style="color:orange;">diving deeper</span> into the <span style="color:blue;">MERN stack</span> while enhancing my expertise in <span style="color:red;">Machine Learning</span> and <span style="color:gold;">Data Science</span>
-💡 Excited about the possibilities of <span style="color:violet;">Web 3.0</span> and <span style="color:cyan;">decentralized technologies</span>
-💞️ Always eager to <span style="color:maroon;">collaborate</span> on <span style="color:navy;">MERN stack projects</span> and <span style="color:olive;">AI-driven innovations</span>
-📫 Feel free to connect with me on <span style="color:green;">LinkedIn</span>
-⚡ Fun fact: I’m a <span style="color:lime;">gaming enthusiast</span> who loves blending <span style="color:orange;">creativity</span> and <span style="color:skyblue;">technology</span> to craft unique solutions!
+👋 Hi, I’m @Shahryar-Sohail  
+👀 I’m passionate about Web Development and love exploring emerging technologies  
+🌱 Currently diving deeper into the MERN stack while enhancing my expertise in Machine Learning and Data Science  
+💡 Excited about the possibilities of Web 3.0 and decentralized technologies  
+💞️ Always eager to collaborate on MERN stack projects and AI-driven innovations  
+📫 Feel free to connect with me on LinkedIn  
+⚡ Fun fact: I’m a gaming enthusiast who loves blending creativity and technology to craft unique solutions!  
 
 🛠 Tech Stack  
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
