@@ -2,7 +2,7 @@
 ![Room Setup](/Room%20Setup%20Edited.png)  
 ![Visitor Count](https://komarev.com/ghpvc/?username=Shahryar-Sohail&color=brightgreen)  
 
-👋 Hi, I’m @Shahryar-Sohail  ![Shahryar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahryar-Sohail&show_icons=true&theme=radical)  
+👋 Hi, I’m @Shahryar-Sohail![Shahryar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahryar-Sohail&show_icons=true&theme=radical)  
 👀 I’m passionate about Web Development and love exploring emerging technologies  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahryar-Sohail&layout=compact&theme=radical)
 🌱 Currently diving deeper into the MERN stack while enhancing my expertise in Machine Learning and Data Science  
 💡 Excited about the possibilities of Web 3.0 and decentralized technologies  
