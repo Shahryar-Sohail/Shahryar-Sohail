@@ -1,5 +1,5 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahryar-Sohail&show_icons=true&theme=dark)  
-![Room Setup](/Room%20Setup%20Edited.png)  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hi,+I'm+Shahryar!;Welcome+to+my+GitHub!;Passionate+Web+Developer)
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=Shahryar-Sohail&color=brightgreen)  
 ![Shahryar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahryar-Sohail&show_icons=true&theme=dracula)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahryar-Sohail&layout=compact&theme=vue)  
 
