@@ -1,5 +1,7 @@
 ![Room Setup](/Room%20Setup%20Edited.png)  
 
+![Shahryar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahryar-Sohail&show_icons=true&theme=radical)  
+
 👋 Hi, I’m @Shahryar-Sohail  
 👀 I’m passionate about Web Development and love exploring emerging technologies  
 🌱 Currently diving deeper into the MERN stack while enhancing my expertise in Machine Learning and Data Science  
