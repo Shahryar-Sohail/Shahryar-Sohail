@@ -31,7 +31,7 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)  
 
-![Demo Video](https://github.com/Shahryar-Sohail/Shahryar-Sohail/blob/main/videoplayback.gif)
+
 
 
 
