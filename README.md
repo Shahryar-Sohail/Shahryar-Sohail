@@ -3,7 +3,6 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=Shahryar-Sohail&color=brightgreen)  
 ![Shahryar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahryar-Sohail&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahryar-Sohail&layout=compact&theme=radical)  
-![Clock](https://img.shields.io/badge/Dynamic%20Clock-Check%20Time-blue?style=flat-square)  
 👋 Hi, I’m @Shahryar-Sohail  
 👀 I’m passionate about Web Development and love exploring emerging technologies  
 🌱 Currently diving deeper into the MERN stack while enhancing my expertise in Machine Learning and Data Science  
@@ -13,7 +12,7 @@
 ⚡ Fun fact: I’m a gaming enthusiast who loves blending creativity and technology to craft unique solutions!  
 
 ![Shahryar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shahryar-Sohail&theme=dracula)  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Shahryar-Sohail&theme=radical)](https://git.io/streak-stats)  
+
 🛠 Tech Stack  
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
