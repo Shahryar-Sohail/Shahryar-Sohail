@@ -2,28 +2,8 @@
 ![Room Setup](/Room%20Setup%20Edited.png)  
 ![Visitor Count](https://komarev.com/ghpvc/?username=Shahryar-Sohail&color=brightgreen)  
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-
-  <!-- Greeting Message -->
-  <div style="flex: 1; text-align: center;">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Hi,+I'm+Shahryar!;Welcome+to+my+GitHub!;Passionate+Web+Developer" alt="Typing SVG">
-    </a>
-  </div>
-
-  <!-- Stats and Widgets -->
-  <div style="flex: 1; text-align: right;">
-    <img src="https://komarev.com/ghpvc/?username=Shahryar-Sohail&color=brightgreen" alt="Visitor Count">  
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=Shahryar-Sohail&show_icons=true&theme=radical" alt="GitHub Stats">  
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahryar-Sohail&layout=compact&theme=radical" alt="Top Languages">
-  </div>
-
-</div>
-
 👋 Hi, I’m @Shahryar-Sohail  ![Shahryar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahryar-Sohail&show_icons=true&theme=radical)  
-👀 I’m passionate about Web Development and love exploring emerging technologies  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahryar-Sohail&layout=compact&theme=radical)  
+👀 I’m passionate about Web Development and love exploring emerging technologies  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahryar-Sohail&layout=compact&theme=radical)
 🌱 Currently diving deeper into the MERN stack while enhancing my expertise in Machine Learning and Data Science  
 💡 Excited about the possibilities of Web 3.0 and decentralized technologies  
 💞️ Always eager to collaborate on MERN stack projects and AI-driven innovations  
