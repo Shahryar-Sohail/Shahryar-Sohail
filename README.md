@@ -5,7 +5,7 @@
 🌱 Currently diving deeper into the MERN stack while enhancing my expertise in Machine Learning and Data Science  
 💡 Excited about the possibilities of Web 3.0 and decentralized technologies  
 💞️ Always eager to collaborate on MERN stack projects and AI-driven innovations  
-📫 Feel free to connect with me on LinkedIn  
+📫  Reach me on [LinkedIn](https://www.linkedin.com/in/shahryar-sohail-477750274/)   
 ⚡ Fun fact: I’m a gaming enthusiast who loves blending creativity and technology to craft unique solutions!  
 
 🛠 Tech Stack  
