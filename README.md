@@ -13,7 +13,7 @@
 ⚡ Fun fact: I’m a gaming enthusiast who loves blending creativity and technology to craft unique solutions!  
 
 ![Shahryar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shahryar-Sohail&theme=dracula)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shahryar-Sohail&theme=radical)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Shahryar-Sohail&theme=radical)](https://git.io/streak-stats)  
 🛠 Tech Stack  
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
