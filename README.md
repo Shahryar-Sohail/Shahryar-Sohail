@@ -3,7 +3,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=Shahryar-Sohail&color=brightgreen)  
 ![Shahryar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahryar-Sohail&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahryar-Sohail&layout=compact&theme=radical)  
-![Real-time Clock](https://badges.draper.best/clock.svg)  
+![Clock](https://img.shields.io/badge/Dynamic%20Clock-Check%20Time-blue?style=flat-square)  
 👋 Hi, I’m @Shahryar-Sohail  
 👀 I’m passionate about Web Development and love exploring emerging technologies  
 🌱 Currently diving deeper into the MERN stack while enhancing my expertise in Machine Learning and Data Science  
