@@ -4,7 +4,7 @@
 ![Shahryar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahryar-Sohail&show_icons=true&theme=dracula)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahryar-Sohail&layout=compact&theme=vue)  
 
 👋 Hi, I’m @Shahryar-Sohail   
-👀 I’m passionate about Web Development and love exploring emerging technologies 🌱 Currently diving deeper into the MERN stack while enhancing my expertise in Machine Learning and Data Science  
+👀 I’m passionate Software Engineer and love exploring emerging technologies 🌱 Currently diving deeper into the MERN stack while enhancing my expertise in Machine Learning and Data Science  
 💡 Excited about the possibilities of Web 3.0 and decentralized technologies  
 💞️ Always eager to collaborate on MERN stack projects and AI-driven innovations  
 📫  Reach me on [LinkedIn](https://www.linkedin.com/in/shahryar-sohail-477750274/)   
