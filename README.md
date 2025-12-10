@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=Hi,+I'm+Shahryar+Sohail!;Software+%26+Engineer;Welcome+to+my+GitHub+Profile!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=Hi,+I'm+Shahryar+Sohail!;Software+Engineer;Welcome+to+my+GitHub+Profile!)
 
 ![Banner](./Room%20Setup%20Edited.png)
 
