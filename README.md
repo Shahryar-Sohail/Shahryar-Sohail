@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shahryar-Sohail&color=blueviolet&style=for-the-badge" />
 </p>
-[![Shahryar Sohail profile views](https://u8views.com/api/v1/github/profiles/144619587/views/day-week-month-total-count.svg)](https://u8views.com/github/Shahryar-Sohail)
+
 # 👨‍💻 About Me
 
 🚀 Passionate **Software Engineer** exploring the intersection of **Web Development** (especially **Next.js**), **Machine Learning**, and **Cloud Technologies** <br>
