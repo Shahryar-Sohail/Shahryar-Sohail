@@ -28,6 +28,7 @@
 ---
 
 [![Shahryar Sohail profile views](https://u8views.com/api/v1/github/profiles/144619587/views/day-week-month-total-count.svg)](https://u8views.com/github/Shahryar-Sohail)
+![](https://hit.yhype.me/github/profile?account_id=144619587)
 
 # 🛠 **Tech Stack**
 
