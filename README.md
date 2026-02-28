@@ -9,9 +9,9 @@
 # 👨‍💻 About Me
 
 🚀 Passionate **Software Engineer** exploring the intersection of **Web Development** (especially **Next.js**), **Machine Learning**, and **Cloud Technologies** <br>
-🌱 Currently mastering the **MERN Stack**, **Next.js**, **Django**, **Python**, and **MySQL** <br>
-🤝 Open to collaborations on **AI**, **Next.js/Full-Stack**, **DSA**, and **E-Commerce** projects <br>
-🔥 Fascinated by **Web 3.0**, Blockchain & Decentralized Apps <br>
+🌱 Currently mastering the **MERN Stack**, **Next.js**, **Django**, **Generative AI** <br>
+🤝 Open to collaborations on **Agentic Ai**, **Automation**<br>
+🔥 Fascinated by **Web 3.0**, **Computer Networking** Apps <br>
 🎮 Gamer at heart — creativity + technology = my happy place
 
 # 📊 GitHub Analytics
